@@ -1,0 +1,22 @@
+* {
+    font-family: "Comic Sans MS", "Papyrus", sans-serif;
+    background-color: green;
+    color: white;
+}
+
+h1 {
+    font-size: 96px;
+}
+
+h2 {
+    color: brown;
+}
+
+a {
+    font-style: italic;
+}
+
+img {
+    height: auto;
+    width: 400px;
+}
