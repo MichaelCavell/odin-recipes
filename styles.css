@@ -10,10 +10,16 @@ h1 {
 
 h2 {
     color: brown;
+    border: solid yellow;
 }
 
 a {
     font-style: italic;
+    background-color: brown;
+    padding: 10px;
+    margin: 20px auto;
+    border: dotted pink;
+    display: block;
 }
 
 img {
