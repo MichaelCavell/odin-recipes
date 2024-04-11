@@ -1,0 +1,12 @@
+* {
+    background-color: blanchedalmond;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+h1 {
+    color:brown
+}
+
+.recipe-links {
+    list-style-type: none;
+}
